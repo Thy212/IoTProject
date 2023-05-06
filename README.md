@@ -1,6 +1,6 @@
 # IoTProject
-Final Project IoT about The Smart Parking lot
-Technology used: Tinkercad
+Final Project IoT about The Smart Parking lot \n
+Technology used: Tinkercad \n
 Code by Blocks
 Demo:
 - Inside the smart parking lot: https://www.tinkercad.com/things/iyLQ3uS19tA?sharecode=fTuYRoTR_lxAdGhDAIrwKUtk7aP2yMjEEfrqAgYxelQ
