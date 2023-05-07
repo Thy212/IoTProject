@@ -1,5 +1,5 @@
 # IoTProject
-Final Project IoT about The Smart Parking lot\
+Final Project IoT about The Smart Parking loT\
 Technology used: Tinkercad\
 Code by Blocks\
 Demo:
